@@ -1,2 +1,2 @@
 # hbd" >> README.md
-https://yeoraa.github.io/hbd.git
+https://yeoraa.github.io/hbd
