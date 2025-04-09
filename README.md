@@ -1,7 +1,2 @@
 # hbd" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/yeoraa/hbd.git
-git push -u origin main
+https://yeoraa.github.io/hbd.git
